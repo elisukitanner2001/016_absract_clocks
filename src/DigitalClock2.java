@@ -1,4 +1,3 @@
-
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -6,7 +5,6 @@ import java.util.Timer;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-
 public class DigitalClock2 extends JFrame implements ActionListener {
 
 	JLabel lblShowTime = new JLabel("");

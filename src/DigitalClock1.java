@@ -28,7 +28,6 @@ public class DigitalClock1 extends MyTime implements NewInterface{
 	public void first() {
 		throw new UnsupportedOperationException("Not supported yet");
 		
-		
 	}
 	
 	@Override

@@ -3,4 +3,5 @@ public class InheritMyTime extends MyTime {
 	public void display() {
 
 	}
+	
 }

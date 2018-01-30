@@ -1,4 +1,3 @@
-
 public interface NewInterface {
 	
 	public abstract void first();

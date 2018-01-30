@@ -18,6 +18,5 @@ public abstract class MyTime {
 		d = dateFormat.format(cal.getTime());
 		return d;
 		
-	}
-	
+	}	
 }
